@@ -20,7 +20,7 @@ The dataset used in this project is from Kaggle, provided by [Steve1215rogg](htt
 
 It offers a detailed view of student lifestyle patterns and their correlation with academic performance (GPA). The dataset contains 2,000 records of students' daily habits, including study, extracurriculars, sleep, socializing, and physical activities. Each student's stress level is derived from study and sleep hours, offering insights into how lifestyle factors may impact academic outcomes.
 
-This dataset is licensed under the [Apache 2.0 License](https://opensource.org/licenses/Apache-2.0).
+This dataset is licensed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0).
 
 You can access the dataset [here](https://www.kaggle.com/datasets/steve1215rogg/student-lifestyle-dataset).
 
