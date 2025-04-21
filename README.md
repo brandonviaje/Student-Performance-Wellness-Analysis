@@ -4,6 +4,8 @@ This project is an Exploratory Data Analysis (EDA) focused on understanding how 
 
 ## 📊 Objective
 The goal of this project is to uncover patterns and correlations between academic success and wellness-related behaviors in students. By exploring these relationships, we can gain insights into how high-achieving students balance performance and personal well-being.
+    
+# [![Read More](https://img.shields.io/badge/Read-More-blue?style=for-the-badge&logo=readthedocs)](Student-Performance-EDA/StudentPerformanceEDA.ipynb)
 
 ## Tools & Libraries
 - **Jupyter Notebook** – for interactive coding and visualization
@@ -50,8 +52,10 @@ The analysis follows these main steps:
   - High-stress students often neglect self-care (sleep, exercise, socializing), despite performing well academically.
   - Moderate and low-stress students manage to balance their academics with self-care, which results in more well-rounded success.
 
-**View the full analysis here: [Exploratory Data Analysis Notebook](Student-Performance-EDA/StudentPerformanceEDA.ipynb)**
+---
 
-## Author
-**Brandon Viaje**
+**✍️ Analysis by:** Brandon Viaje
 
+**🗓️ Published on:**  *November 24, 2024*  
+
+---
