@@ -15,6 +15,18 @@ The goal of this project is to uncover patterns and correlations between academi
 - **Seaborn** – for statistical data visualization  
 - **Kaggle** – for sourcing the dataset
 
+<table>
+  <tr>
+    <td><a href="https://jupyter.org/" target="_blank"><img src="https://jupyter.org/assets/homepage/main-logo.svg" width="50"/></a></td>
+    <td><a href="https://pandas.pydata.org/" target="_blank"><img src="https://pandas.pydata.org/static/img/pandas_white.svg" width="50"/></a></td>
+    <td><a href="https://numpy.org/" target="_blank"><img src="https://numpy.org/images/logo.svg" width="50"/></a></td>
+    <td><a href="https://matplotlib.org/" target="_blank"><img src="https://matplotlib.org/_static/images/logo2.svg" width="50"/></a></td>
+    <td><a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="80"/></a></td>
+    <td><a href="https://www.kaggle.com/" target="_blank"><img src="https://www.kaggle.com/static/images/site-logo.svg" width="50"/></a></td>
+  </tr>
+</table>
+
+
 ## 📅 Dataset
 The dataset used in this project is from Kaggle, provided by [Steve1215rogg](https://www.kaggle.com/steve1215rogg).
 
