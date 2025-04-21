@@ -49,7 +49,7 @@ The analysis follows these main steps:
   - High-stress students often neglect self-care (sleep, exercise, socializing), despite performing well academically.
   - Moderate and low-stress students manage to balance their academics with self-care, which results in more well-rounded success.
 
-**View the full analysis here: [Exploratory Data Analysis Notebook](Student-Performance-EDA/StudentPerfomanceEDA.ipynb)**
+**View the full analysis here: [Exploratory Data Analysis Notebook](Student-Performance-EDA/StudentPerformanceEDA.ipynb)**
 
 ## Author
 Brandon Viaje
