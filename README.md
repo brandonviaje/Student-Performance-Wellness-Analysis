@@ -14,12 +14,13 @@ The goal of this project is to uncover patterns and correlations between academi
 - **Kaggle** – for sourcing the dataset
 
 ## 📅 Dataset
-The dataset used in this project was sourced from Kaggle, provided by [Steve1215rogg](https://www.kaggle.com/steve1215rogg). It contains survey responses from high-achieving students, capturing their stress levels, sleep habits, physical activity, and social life. 
+The dataset used in this project is from Kaggle, provided by [Steve1215rogg](https://www.kaggle.com/steve1215rogg).
+
+It offers a detailed view of student lifestyle patterns and their correlation with academic performance (GPA). The dataset contains 2,000 records of students' daily habits, including study, extracurriculars, sleep, socializing, and physical activities. Each student's stress level is derived from study and sleep hours, offering insights into how lifestyle factors may impact academic outcomes.
 
 This dataset is licensed under the [Apache 2.0 License](https://opensource.org/licenses/Apache-2.0).
 
 You can access the dataset [here](https://www.kaggle.com/datasets/steve1215rogg/student-lifestyle-dataset).
-
 
 ## EDA Process
 The analysis follows these main steps:
@@ -52,5 +53,5 @@ The analysis follows these main steps:
 **View the full analysis here: [Exploratory Data Analysis Notebook](Student-Performance-EDA/StudentPerformanceEDA.ipynb)**
 
 ## Author
-Brandon Viaje
+**Brandon Viaje**
 
