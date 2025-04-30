@@ -1,6 +1,6 @@
 # High Achieving Students: EDA on Stress, Sleep, Social Life, and Physical Activity
 
-This project is an Exploratory Data Analysis (EDA) focused on understanding how high-achieving students manage stress, maintain a social life, get enough sleep, and stay physically active. The analysis follows a structured EDA process using **Jupyter Notebook** and Python libraries.
+This project is an Exploratory Data Analysis focused on understanding how high-achieving students manage stress, maintain a social life, get enough sleep, and stay physically active. The analysis follows a structured EDA process using **Jupyter Notebook** and Python libraries.
 
 ## 📊 Objective
 
